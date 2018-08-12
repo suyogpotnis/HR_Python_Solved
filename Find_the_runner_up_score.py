@@ -10,7 +10,7 @@ Sample Input
 Output:
 5
 
-Explanation: In the above given list the 5 is the second highest score.
+Explanation: In the above given list 5 is the second highest score.
 """
 
 def find_runner_up_score(arr):
