@@ -1,2 +1,2 @@
 # HR_Python_Solved
-Solved Python questions
+Solved Python questions from Hacker Rank
