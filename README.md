@@ -1,2 +1,2 @@
-# HackerRank_Python_Solved
-Contains all python questions from HackerRank
+# HR_Python_Solved
+Solved Python questions
